@@ -1393,6 +1393,23 @@
     "HomepageUrl": "https://github.com/Vek17/WrathMods-TurnbasedCombatDelay",
     "Tags": [ "Gameplay", "Miscellaneous" ]
   },
+
+  {
+    "Name": "Undead Bloodline Reanimated",
+    "Author": "Kahnabys",
+    "Id": {
+      "Id": "UndeadBloodlineReanimated",
+      "Type": "Owlcat"
+    },
+    "Service": {
+      "Nexus": {
+        "ModID": "690"
+      }
+    },
+    "About": "Modifies the Undead Bloodline to better combine with Lich and increase the strength of it's weak features.",
+    "HomepageUrl": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/690/",
+    "Tags": [ "Gameplay", "Content" ]
+  },
   
   {
     "Name": "Vampiric blade without effects",
